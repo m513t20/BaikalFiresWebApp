@@ -1,2 +1,2 @@
-{"ConnectionString":"User ID=admin;Password=123456;Host=192.168.10.10;Port=5432;Database=Berezin;Pooling=true;",
-"ConnectionStudy":"User ID=admin;Password=123456;Host=192.168.10.10;Port=5432;Database=study;Pooling=true;"}
+{"ConnectionString":"User ID=root;Password=myPassword;Host=localhost;Port=5432;Database=myDataBase;Pooling=true;Min Pool Size=0;Max Pool Size=100;Connection Lifetime=0;",
+"ConnectionStudy":"User ID=root;Password=myPassword;Host=localhost;Port=5432;Database=myDataBase;Pooling=true;Min Pool Size=0;Max Pool Size=100;Connection Lifetime=0;"}
