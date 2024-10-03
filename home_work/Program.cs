@@ -94,19 +94,18 @@ internal class Program
         //написание таблицы
         foreach(var cur_region in result.Keys){
             Console.WriteLine($"{cur_region.RegionName}:\t{result[cur_region].Count()}");
-//             var sqlTemplateReg=@"insert into public.fire_history(guid, region_id, year_period, month_period)
-//                             select '{0}', id as region_id, {1}, {2} from public.regions where guid = '{3}' limit 1"
-// ;
+             var sqlTemplateReg=@"insert into public.fire_history(guid, region_id, year_period, month_period)
+                             select '{0}', id as region_id, {1}, {2} from public.regions where guid = '{3}' limit 1";
         
-//             var region=result[cur_region];
+             var region=result[cur_region];
 
-//             foreach(var row in region){
-//                 var insert_sql=string.Format(sqlTemplateReg,row.RecordId,row.year,row.month,cur_region.RegionId);
+             foreach(var row in region){
+                 var insert_sql=string.Format(sqlTemplateReg,row.RecordId,row.year,row.month,cur_region.RegionId);
 
-//                 var command=new Npgsql.NpgsqlCommand(insert_sql,connect);
-//                 command.ExecuteNonQuery();
+                 var command=new Npgsql.NpgsqlCommand(insert_sql,connect);
+                 command.ExecuteNonQuery();
             
-//             }
+             }
 
 
 
