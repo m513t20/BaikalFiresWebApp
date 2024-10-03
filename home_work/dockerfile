@@ -1,0 +1,22 @@
+#БАЗА
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
+WORKDIR app
+
+#Копирование
+COPY . .
+
+#Сборка
+RUN dotnet build home_work.csproj
+RUN dotnet publish home_work.csproj -o ./Release
+
+#для запуска
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS app
+WORKDIR app
+
+#Скопировать результат
+COPY --from=build /app/Release .
+COPY fires_2011-2021.geojson /app/fires_2011-2021.geojson
+
+
+#имя запуска
+ENTRYPOINT ["dotnet","home_work.dll"]

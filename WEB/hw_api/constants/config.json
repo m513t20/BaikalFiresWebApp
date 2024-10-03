@@ -1,0 +1,2 @@
+{"ConnectionString":"User ID=admin;Password=123456;Host=192.168.10.10;Port=5432;Database=Berezin;Pooling=true;",
+"ConnectionStudy":"User ID=admin;Password=123456;Host=192.168.10.10;Port=5432;Database=study;Pooling=true;"}

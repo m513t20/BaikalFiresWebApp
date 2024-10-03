@@ -1,0 +1,69 @@
+D:\Users\MateBookD14\Documents\WEB\hw_api\bin\Debug\net8.0\appsettings.Development.json
+D:\Users\MateBookD14\Documents\WEB\hw_api\bin\Debug\net8.0\appsettings.json
+D:\Users\MateBookD14\Documents\WEB\hw_api\bin\Debug\net8.0\hw_api.exe
+D:\Users\MateBookD14\Documents\WEB\hw_api\bin\Debug\net8.0\hw_api.deps.json
+D:\Users\MateBookD14\Documents\WEB\hw_api\bin\Debug\net8.0\hw_api.runtimeconfig.json
+D:\Users\MateBookD14\Documents\WEB\hw_api\bin\Debug\net8.0\hw_api.dll
+D:\Users\MateBookD14\Documents\WEB\hw_api\bin\Debug\net8.0\hw_api.pdb
+D:\Users\MateBookD14\Documents\WEB\hw_api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Users\MateBookD14\Documents\WEB\hw_api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Users\MateBookD14\Documents\WEB\hw_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\MateBookD14\Documents\WEB\hw_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\MateBookD14\Documents\WEB\hw_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\MateBookD14\Documents\WEB\hw_api\obj\Debug\net8.0\hw_api.csproj.AssemblyReference.cache
+D:\Users\MateBookD14\Documents\WEB\hw_api\obj\Debug\net8.0\hw_api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\MateBookD14\Documents\WEB\hw_api\obj\Debug\net8.0\hw_api.AssemblyInfoInputs.cache
+D:\Users\MateBookD14\Documents\WEB\hw_api\obj\Debug\net8.0\hw_api.AssemblyInfo.cs
+D:\Users\MateBookD14\Documents\WEB\hw_api\obj\Debug\net8.0\hw_api.csproj.CoreCompileInputs.cache
+D:\Users\MateBookD14\Documents\WEB\hw_api\obj\Debug\net8.0\hw_api.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\MateBookD14\Documents\WEB\hw_api\obj\Debug\net8.0\hw_api.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\MateBookD14\Documents\WEB\hw_api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Users\MateBookD14\Documents\WEB\hw_api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Users\MateBookD14\Documents\WEB\hw_api\obj\Debug\net8.0\staticwebassets\msbuild.hw_api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\MateBookD14\Documents\WEB\hw_api\obj\Debug\net8.0\staticwebassets\msbuild.build.hw_api.props
+D:\Users\MateBookD14\Documents\WEB\hw_api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.hw_api.props
+D:\Users\MateBookD14\Documents\WEB\hw_api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.hw_api.props
+D:\Users\MateBookD14\Documents\WEB\hw_api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Users\MateBookD14\Documents\WEB\hw_api\obj\Debug\net8.0\scopedcss\bundle\hw_api.styles.css
+D:\Users\MateBookD14\Documents\WEB\hw_api\obj\Debug\net8.0\hw_api.csproj.Up2Date
+D:\Users\MateBookD14\Documents\WEB\hw_api\obj\Debug\net8.0\hw_api.dll
+D:\Users\MateBookD14\Documents\WEB\hw_api\obj\Debug\net8.0\refint\hw_api.dll
+D:\Users\MateBookD14\Documents\WEB\hw_api\obj\Debug\net8.0\hw_api.pdb
+D:\Users\MateBookD14\Documents\WEB\hw_api\obj\Debug\net8.0\hw_api.genruntimeconfig.cache
+D:\Users\MateBookD14\Documents\WEB\hw_api\obj\Debug\net8.0\ref\hw_api.dll
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\bin\Debug\net8.0\appsettings.Development.json
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\bin\Debug\net8.0\appsettings.json
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\bin\Debug\net8.0\constants\config.json
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\bin\Debug\net8.0\hw_api.exe
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\bin\Debug\net8.0\hw_api.deps.json
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\bin\Debug\net8.0\hw_api.runtimeconfig.json
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\bin\Debug\net8.0\hw_api.dll
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\bin\Debug\net8.0\hw_api.pdb
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\obj\Debug\net8.0\hw_api.csproj.AssemblyReference.cache
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\obj\Debug\net8.0\hw_api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\obj\Debug\net8.0\hw_api.AssemblyInfoInputs.cache
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\obj\Debug\net8.0\hw_api.AssemblyInfo.cs
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\obj\Debug\net8.0\hw_api.csproj.CoreCompileInputs.cache
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\obj\Debug\net8.0\hw_api.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\obj\Debug\net8.0\hw_api.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\obj\Debug\net8.0\staticwebassets\msbuild.hw_api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\obj\Debug\net8.0\staticwebassets\msbuild.build.hw_api.props
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.hw_api.props
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.hw_api.props
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\obj\Debug\net8.0\scopedcss\bundle\hw_api.styles.css
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\obj\Debug\net8.0\hw_api.csproj.Up2Date
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\obj\Debug\net8.0\hw_api.dll
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\obj\Debug\net8.0\refint\hw_api.dll
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\obj\Debug\net8.0\hw_api.pdb
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\obj\Debug\net8.0\hw_api.genruntimeconfig.cache
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\obj\Debug\net8.0\ref\hw_api.dll
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\bin\Debug\net8.0\Npgsql.dll
+D:\Users\MateBookD14\Documents\день 2\m513t20\WEB\hw_api\bin\Debug\net8.0\response_example.json

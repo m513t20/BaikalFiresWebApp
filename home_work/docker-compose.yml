@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  year_filter:
+    image: "docker.io/library/test:latest"
+    command: ["year", "2015"]
+
+  year_gap_filter:
+    image: "docker.io/library/test:latest"
+    command: ["year_gap", "2015-2016"]
+
+  year_month_filter:
+    image: "docker.io/library/test:latest"
+    command: ["year_month",  "201601-201705"]

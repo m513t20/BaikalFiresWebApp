@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>GeoJsonWeb</title>
+    <!-- CSS -->
+    <link href="./css/bootstrap.css" rel="stylesheet">
+
+    <!-- Скрипты -->
+    <script src="./js/bootstrap.min.js"></script>
+    <script src="./js/Chart.min.js"></script>
+
+</head>
+
+  <body onload="val()">
+    <h1>Бизнес метрики</h1>
+    <h3>Анализ пожаров за период по Иркутской области</h3>
+  
+  
+    <div style="width: 800px; border: 3px solid #000001; margin:auto" id="Creator"><canvas id="GeoJsonWebConvas"></canvas></div>
+    <script>
+    
+        async function val() {
+
+            var data = [];
+
+      var dd_menu=document.getElementById("metrics_test");
+      var metrics_test_val=dd_menu.options[dd_menu.selectedIndex].value;
+            // Получаем данные
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", "http://localhost:5187/metrics?metricId="+metrics_test_val, false);
+
+            xhr.onload = function() {
+                data = JSON.parse(xhr.response);
+            };
+
+            xhr.onerror = function() { 
+                console.log('Ошибка соединения');
+            };
+            xhr.send();
+
+            var convasToDestroy =  document.getElementById('GeoJsonWebConvas');
+
+            convasToDestroy.remove();
+
+            document.getElementById("Creator").innerHTML+='<canvas id= "GeoJsonWebConvas"></canvas>';     
+
+            var convas =  document.getElementById('GeoJsonWebConvas');
+      
+      if (data.length>0)
+      {
+      var keys = Object.keys(data[0]); 
+        new Chart(
+        convas,
+        {
+          type: 'bar',
+          data: {
+            labels: data.map(row => row[keys[0]]),
+            datasets: [
+              {
+                label: keys[1],
+                data: data.map(row => row[keys[1]])
+              }]
+            }
+        }
+      );
+      }
+      else
+      {
+        data = [{msg: "empty", count: 100}];
+        new Chart(
+          convas,
+          {
+            type: 'bar',
+            data:{
+              labels: data.map(row => row["msg"]),
+              datasets: [
+              {
+                label: "error",
+                data:data.map(row => row["count"])
+              }]
+            }
+          }
+        );
+      }
+        };
+    </script>
+  
+    <select name="metrics_test" id="metrics_test" onchange="val()">
+    <option value="1">Метрика по регионам</option>
+    <option value="5">метрика по годам</option>
+    <option value="6">Метрика по месяцам</option>
+
+  </select>
+  
+  <p id="test"></p>
+  </body>
+</html>
